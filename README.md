@@ -3,7 +3,7 @@
 
 [taobao](http://www.taobao.com)
 
-[jump](.\jump_for_second\second.md)
+[jump](https://github.com/anhuizhaoxuan123/gituse/jump_for_second/second.md)
 
 ![img_directory](.\landscape.jpg)
 
