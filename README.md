@@ -5,7 +5,7 @@
 
 [jump](https://github.com/anhuizhaoxuan123/gituse/blob/master/jump_for_second/second.md)
 
-![img_directory](.\landscape.jpg)
+![img_directory](https://github.com/anhuizhaoxuan123/gituse/blob/master/landscape.jpg)
 
 ![img_intheweb](https://tse1-mm.cn.bing.net/th/id/OIP.5YRSsEk6V7a4k8ewFSCGAAHaEo?pid=ImgDet&rs=1)
 
